@@ -4,4 +4,3 @@ jd; Did I listen to the last show?
 ac; Yeah
 jd; No, I was on it. 
 No, I was on the last show
-ac; Yes, I remember that part I was just wondering.
