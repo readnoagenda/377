@@ -1,4 +1,4 @@
-ac: bird here
+ac; bird here
 x; slide whistle
 ac; ok that's working good
 x; slide whistle
