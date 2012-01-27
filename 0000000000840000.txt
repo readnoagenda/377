@@ -1,8 +1,8 @@
 cbo; [Obama Speech 2012] I believe as strongly as ever we should take on illegal immigration.
-[Obama Speech 2011]And let's stop expelling talented responsible young people.
-[Obama Speech 2012]Let's at least agree to stop expelling responsible young people.
-[Obama Speech 2011]Who could be staffing our research labs or starting a new business.
+[Obama Speech 2011] And let's stop expelling talented responsible young people.
+[Obama Speech 2012] Let's at least agree to stop expelling responsible young people.
+[Obama Speech 2011] Who could be staffing our research labs or starting a new business.
 [Obama Speech 2012] Who want to staff our labs, start new businesses.
-[Obama Speech 2011]We'll put more Americans to work repairing crumbling roads and bridges.
-[Obama Speech 2012]So much of America needs to be rebuilt, we've got crumbling roads and bridges.
-[Obama Speech 2011]We face a deficit of trust.
+[Obama Speech 2011] We'll put more Americans to work repairing crumbling roads and bridges.
+[Obama Speech 2012] So much of America needs to be rebuilt, we've got crumbling roads and bridges.
+[Obama Speech 2011] We face a deficit of trust.
