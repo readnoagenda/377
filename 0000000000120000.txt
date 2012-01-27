@@ -1,7 +1,6 @@
-ac; it also depends on the number of hops and stuff like that.
 x; opera music
 ac; did you listen to the last show?
 jd; did I listen to the last show?
 ac; yeah
-jd; no no I was on it, no I was on the last show
+jd; no I was on it, no I was on the last show
 ac; yes, I remember that part I was just wondering
