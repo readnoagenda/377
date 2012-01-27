@@ -1,10 +1,10 @@
 jd; Exact same wording.
 ac; I have the clip, let's listen.
-c; [Obama Speech 1] Whether the hard and industry of our people is rewarded.
-[Obama Speech 2] Where hard work pays off and responsibility is rewarded.
-[Obama Speech 1] Let's fix what needs fixing and let's move forward.
-[Obama Speech 2] Tonight I want to speek about how we move forward.
-[Obama Speech 1] It's time for colleges and universities to get serious about cutting their own costs.
-[Obama Speech 2] Colleges and universities have to do their part by working to keep costs down.
-[Obama Speech 1] And we should continue the work of fixing our broken immigration system.
-[Obama Speech 2] Now I strongly believe that we should take on once and for all the issue of illegal immigration.
+c; [Obama Speech 2011] Whether the hard and industry of our people is rewarded.
+[Obama Speech 2012] Where hard work pays off and responsibility is rewarded.
+[Obama Speech 2011] Let's fix what needs fixing and let's move forward.
+[Obama Speech 2012] Tonight I want to speek about how we move forward.
+[Obama Speech 2011] It's time for colleges and universities to get serious about cutting their own costs.
+[Obama Speech 2022] Colleges and universities have to do their part by working to keep costs down.
+[Obama Speech 2010] And we should continue the work of fixing our broken immigration system.
+[Obama Speech 2011] Now I strongly believe that we should take on once and for all the issue of illegal immigration.
