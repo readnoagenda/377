@@ -2,10 +2,9 @@ ac; "What?"
 And she actually goats over it. 
 She's like: "This is big news! This is hot news! Right of the press!" 
 Have a listen!
-c1; (Erin Burnett)
-"You did say some nice things to the daily caller about Ron Paul. 
+ceb; "You did say some nice things to the daily caller about Ron Paul. 
 What's the best thing about Ron Paul?"
-c2; (Jim DeMint)
+cjd; (Jim DeMint)
 "Oh yeah, if we don't listen to Ron Pauls... There is several things here:
 The unaccountable, out of control Federal Reserve is going to destroy our monetary system. 
 The whole concept of individual liberty and limited government. 
