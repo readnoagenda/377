@@ -1,6 +1,6 @@
 jd; So let's play part 2.
 Now you get out.
 See the structure of the upcoming campaign.
-c1; Do you think that President Obama has the gumption, I guess, to carry through was he said in the speech?
+cm; Do you think that President Obama has the gumption, I guess, to carry through was he said in the speech?
 Do you think he's actually going to start commissioning those kind of dreamy, inspirational projects - which will get the whole world gasping in awe?
 c2; I'm hopeful that he will.
