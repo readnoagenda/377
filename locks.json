@@ -3,24 +3,12 @@
         "1620000": {
             "timestamp": 1327773042.341527, 
             "secret": "TZyuQJOKouTTBFMp"
-        }, 
-        "1770000": {
-            "timestamp": 1327773160.161506, 
-            "secret": "NGvIPbOAdLsXLDSK"
-        }, 
-        "1800000": {
-            "timestamp": 1327773160.161506, 
-            "secret": "NlYUIavrwEwHoxfZ"
         }
     }, 
     "review": {
         "1620000": {
             "timestamp": 1327773042.341527, 
             "secret": "xKLJIthvfUdHkMjY"
-        }, 
-        "1770000": {
-            "timestamp": 1327773160.161506, 
-            "secret": "OYqwCbtDdDuCrIaG"
         }
     }
 }
