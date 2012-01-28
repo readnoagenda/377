@@ -1,0 +1,2 @@
+Apparently - and not only apparently but I tried it - for Android there is a Geigercounter app. Which uses several of the sensors inside the android phone including the cameras, but you have to put black tape over the cameras and then you have to calibrate it. 
+I kid you not, I calibrated it in a different room then I went over to the studio, where I have this thing and alarms went of.
