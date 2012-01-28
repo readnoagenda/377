@@ -1,4 +1,9 @@
 {
-    "snippet": {}, 
+    "snippet": {
+        "2160000": {
+            "timestamp": 1327747527.126368, 
+            "secret": "cNEuubPcsGuAqjPr"
+        }
+    }, 
     "review": {}
 }
