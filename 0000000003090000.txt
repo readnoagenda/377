@@ -5,7 +5,7 @@ Have a listen!
 c1; (Erin Burnett)
 "You did say some nice things to the daily caller about Ron Paul. 
 What's the best thing about Ron Paul?"
-c1; (Jim DeMint)
+c2; (Jim DeMint)
 "Oh yeah, if we don't listen to Ron Pauls... There is several things here:
 The unaccountable, out of control Federal Reserve is going to destroy our monetary system. 
 The whole concept of individual liberty and limited government."
