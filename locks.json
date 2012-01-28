@@ -4,10 +4,6 @@
             "timestamp": 1327787967.83905, 
             "secret": "LNJSRbzIzEhBOQxU"
         }, 
-        "3600000": {
-            "timestamp": 1327787659.014581, 
-            "secret": "vKuaxIaIHVnwzVVM"
-        }, 
         "3660000": {
             "timestamp": 1327788714.286622, 
             "secret": "kxkTYCwIdUJqdVLT"
@@ -15,6 +11,10 @@
         "2880000": {
             "timestamp": 1327787967.83905, 
             "secret": "ZfbCtNDxhEjkDOSP"
+        }, 
+        "3210000": {
+            "timestamp": 1327788961.131532, 
+            "secret": "IxXwMiJkmqjnsbVe"
         }, 
         "3150000": {
             "timestamp": 1327787989.288575, 
