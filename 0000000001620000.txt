@@ -5,7 +5,7 @@ jd; Preshot
 ac; A.. a what? a what?
 jd; A preshot!
 ac; A preshot?
-jd; They chose Steve Jobs' window
+jd; They chose Steve Jobs' widow
 ac; Yeah
 jd; Laurene. And then he'd talk about Steve Jobs.
 ac; Ah..  
@@ -15,5 +15,3 @@ jd; And then he'd talk about something, and then sometimes he'd do a reference a
 ac; Right
 jd; All um...
 ac; It was all, it was like coffee television, like here's a cup of coffee and then the the script would be cup of coffee
-jd; Yeah
-ac; Yeah
