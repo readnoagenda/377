@@ -1,4 +1,3 @@
-ac; increase the value of gold. Isn't this like a very simple obvious setup?
 jd; I don't know; no.
 ac; Yeah, it is!
 jd Here's what i think. Here's the script I would run. 
