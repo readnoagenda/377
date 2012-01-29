@@ -1,8 +1,7 @@
 jd; "Then I found out I owed my school a bunch of money..."
 jd; We talked about that earlier.
-jd; "and right as I get my car back, another tyre blows out. Anyway, I could really appreciate it 'cause I need this month to turn around. And oh, could you call my friend Kyle out as a douchebag?"
+jd; "and right as I get my car back, another tire blows out. Anyway, I could really appreciate it 'cause I need this month to turn around. And oh, could you call my friend Kyle out as a douchebag?"
 j; Douchebag
 jd; "He's been listening as long I have and he's never donated. And thanks for all the love."
 j; [Bell ringing] You've got Karma. [Harp playing]
 ac; Wow. I wonder if he got those new rims that spin.
-jd; [Laughing] I love those rims! They're my favorites.
